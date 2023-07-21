@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  padding: 20px;
+  background: lightseagreen;
+}
+.Titolo {
+  font-size: 6rem;
+}
+p {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 20px;
+  display: inline-block;
+  background: plum;
+  border: solid black;
+  width: 30px;
+}
+button,
+input {
+  padding: 20px;
+  background-color: cornflowerblue;
+  border-radius: 15%;
+}
+.selected {
+  background: gray;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 20px;
+  display: inline-block;
+  border: solid black;
+  width: 30px;
+}
+.tab {
+  margin: 20px;
+}
+.cell {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  border: solid black;
+  margin: 5px;
+}
+.container {
+  margin: 60px;
+}
