@@ -17,6 +17,7 @@ p {
 }
 button,
 input {
+  display: block;
   padding: 20px;
   background-color: cornflowerblue;
   border-radius: 15%;
@@ -42,4 +43,7 @@ input {
 }
 .container {
   margin: 60px;
+}
+.onCasella {
+  background-color: bisque;
 }
